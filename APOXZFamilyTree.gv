@@ -17,88 +17,8 @@
 	/* Associating the brother with their pledge class */
 	node [shape=box, labelloc=t];
 	splines=curve;
-	{rank = same; FB; Carleton_Allen; Edwin_Anderson; Richard_Barazzotto; Larry_Bartholomew; Maurice_Bartikofsky; John_Blair; John_Bowser; Franklin_Dierke; Steven_Eisenberg; Joel_Entin; Robert_Frank; Kevin_Gilson; Ronald_Graner; Harvey_Greenberg; Joseph_Greenberg; Louis_Jacobson; Roger_Kramer; Robert_Lambert; Donald_Manges; Jack_Marshall; Francis_Millor; William_Muto; David_Page; Richard_Parett; Myron_Rapkin; Leon_Schilling; David_Stern; James_Stevens; Terry_Sutfin; Paul_Tan; John_Tenz; Karl_Thurber_Jr; David_Wilson; Gary_Greenfield; }
-	{rank = same; 1; Thomas_Recktenwalt; John_Balser; Wiliam_Darrow; Joseph_DeJohn; Harry_Drake; Peter_Glidden; Leslie_Johnson; }
-	{rank = same; 2; George_Martin; Raymond_August; Richard_Begbie; Gary_Dreo; Paul_Lahr; David_McKay; Laurence_Nelkins; }
-	{rank = same; 3; William_Allen; Gary_Bogue; John_Casoni; Cornelius_Illenberg; John_Prevost; }
-	{rank = same; 4; Jack_Glover; Joseph_Davey; Theodore_Fleury; James_Olin; Jeffrey_Rosenberg; }
-	{rank = same; 5; David_Kelch; Robert_Studley; Gary_Williams; Walter_Winchell; }
-	{rank = same; 6; Clem_McSorley; Lawrence_Butler; David_Fierman; Edward_Magee; Ronald_Tannenbaum; }
-	{rank = same; 7; John_Seibt; Ronald_Antioco; Thomas_Howarth; }
-	{rank = same; 8; Paul_Wilson; Fred_Grant; William_Heimbach; Steve_Whitaker; }
-	{rank = same; 9; John_Hammeken_III; Michael_Allen; Stanley_Morse; Clifton_Snider; }
-	{rank = same; 10; Andrew_Morgan; Wendall_Brown; Damon_MacPherson; }
-	{rank = same; 11; Donald_Comstock; Barry_Hartman; Niles_Oliver; Clyde_Solenski; Joseph_Ward; }
-	{rank = same; 12; Kevin_Keator; John_Bechtel; Harold_Larson; Michael_Obstein; Larry_Pocobello; Joseph_Roth; JC_Williams; }
-	{rank = same; 13; Henry_Olson; Ralph_Cyr; Tom_Donovan; Neil_Gorfain; Daniel_Sinto; Ronald_Westcott; }
-	{rank = same; 14; Carl_Palmer; N_Delorimier; Gregory_Reynolds; David_West; }
-	{rank = same; 15; Brian_Charbonneau; David_Turbide; Gerald_Waterman; E_William_Weeks; }
-	{rank = same; 16; Scott_Sims; Steven_Brown; Gary_Dutcher; H_Sieber; Gary_Tucker; }
-	{rank = same; 17; James_Tetor; Richard_Beck; David_Greso; Harvey_Taylor; Bob_Harrison; Mark_Waldman; }
-	{rank = same; 18; Gerry_Segelman; Jeff_Barlowe; Anthony_Coloroso; Michael_OHara; Steven_Schultz; Michael_Smith; }
-	{rank = same; 19; Daniel_Edwards; }
-	{rank = same; 20; Ronald_Beuzenburg; Thomas_Camiolo; Raymond_DiBiase; Robert_Larson; }
-	{rank = same; 21; L_DeMent; Edward_Shirey; }
-	{rank = same; 22; John_Roberts; Michael_Doud; }
-	{rank = same; 23; James_Yost; Edward_Amos_Jr; James_Kloepfer; Ronald_Lippert; Thomas_Reilly; Al_Abrams; }
-	{rank = same; 24; Floyd_Black; Harvey_Duze; }
-	{rank = same; 25; Gerald_Oakley; John_DeBaradinis; William_Dingle; William_Gearing; Lawrence_Hill; Neil_Rappenecker; }
-	{rank = same; 26; John_Brotherhood; James_Cunnings; }
-	{rank = same; 27; Robert_Carmagnola; Hiram_Bell; Neil_Citron; James_DeWan; Robert_Eastham; Ronald_Hopkins; William_Mueller; Robert_Seyfert; }
-	{rank = same; 28; David_Dickinson; Herbert_Jacobson; Stephen_Richards; }
-	{rank = same; 29; Hal_Schulman; James_Buchek; Russel_Fuchs; Brian_Hatkoff; Edward_Pomeroy; Dan_Stasiuk; Gerald_Williams; }
-	{rank = same; 30; Peter_Los; Joseph_Hickson; Robert_Faulkner; Jerry_Helmer; Larry_Schindel; Frederic_Valentini; }
-	{rank = same; 31; Tate_Kelly; Larry_Evans; Kenn_Hollister; Royd_Oberg; Michael_Small; }
-	{rank = same; 32; Gregg_Lambrix; Ray_Edwards; Steve_Gendron; Jesse_Logan; Ralph_Pellegrini; Ralph_Plaideau; }
-	{rank = same; 33; Tom_Baldwin; Larry_Cramer; Rich_Bachelder; }
-	{rank = same; 34; Dirk_Hiney; Dave_Budd; Chris_Supkis; }
-	{rank = same; 35; Paul_Borkowski; Mike_Brown; Michael_Payette; Paul_Ray; }
-	{rank = same; 37; Donald_Faulkner; David_McDowell; Joe_Novak; Alan_Leighton; Larry_Mange; }
-	{rank = same; 38; Wayne_Webster; Phillip_Freedman; Marvin_Hein; William_Beyerbach; Jack_Makowski; Mordecai_Lipshutz; }
-	{rank = same; 39; Dan_Denkin; James_Delahanty; Lee_Dorobiala; James_Robson; Gary_Steinbeck; William_Terrell; }
-	{rank = same; 40; James_Edmonds; Mark_Heath; }
-	{rank = same; 41; Rick_Hopp; Lester_Oakes; }
-	{rank = same; 42; Dean_Syajna; Dave_Albrecht; Rick_Higgs; John_Casey; Christopher_Hurley; }
-	{rank = same; 43; Dave_McHarg; Gary_DeFrancisco; John_Mischler; Kevin_Richards; }
-	{rank = same; 44; Jeff_Benedict; Mark_Goldberg; Mark_Kennedy; }
-	{rank = same; 45; Anthony_Austin; Neal_Eckhaus; David_Gould; Roy_Saucier; }
-	{rank = same; 46; Victor_Creveling; Jim_Jackson; Jeff_Opperman; Eddy_Young; }
-	{rank = same; 47; John_Letteney; Michael_Zimmerman; }
-	{rank = same; 48; Michael_Mulcahy; Gregory_Tutino; }
-	{rank = same; 49; Stewart_Place; William_Sheedy; }
-	{rank = same; 50; John_Hartmann; Jeff_Rosenbaum; Mark_Verbryck; }
-	{rank = same; 51; Susan_Fikes; Scott_Anderson; William_Buchko; Taesan_Chun; Jeffrey_Frink; Michael_Frank; Jordan_Gunther; Maureen_Parrotte; Tim_Rohl; Robert_Urillo; }
-	{rank = same; 52; Raymond_Caruso; Gregory_Bryniarski; Diane_Gibbons; Andrew_Canistra; Stephen_Portrude; }
-	{rank = same; 53; Scot_Nungesser; Wanda_Watson; Gretchen_VanUllen; }
-	{rank = same; 54; Kenneth_Carpenter; Laurie_DiNatale; James_Hartmann; Michael_Kim; David_Schulte; William_Trombadore; }
-	{rank = same; 55; James_Housley; Katherine_Devlin; Bethany_Fuller; Margaret_Kinghorn; Mark_McLeod; Patrick_Winter; }
-	{rank = same; 56; Dawn_Anstett; Jamie_Davis; Robert_E_Lee_Correll_IV; Gary_Falk; }
-	{rank = same; 57; Britta_Fominaya; Michelle_Fryman; Marc_Hufschmied; John_Jenkins; Wilmot_Mitchell; Michelle_Myer; Matthew_Wickham; Lawrence_Wolf; }
-	{rank = same; "57.5"; Theodore_Lemmond; }
-	{rank = same; 58; Gregory_Benz; Meredith_Leavitt; Steven_Palmer; }
-	{rank = same; 59; Jeanine_Donati; Alayne_Gosson; John_Haddock; Jerald_LaPine; Sandy_Niles; Pamela_Pasciak; Tammy_Sharpstene; }
-	{rank = same; "59.5"; Daniel_Newhart; }
-	{rank = same; 60; Hyuk_Bae; Kim_Brookmire; Michael_Donati; Carol_Lohse; Michael_Malach; Rene_Nordin; }
-	{rank = same; 61; Theresa_Kuhn; Paul_Tracy; }
-	{rank = same; 62; Abbas_Badani; Jean_Brophy; Ronald_Kenny; }
-	{rank = same; 63; Alex_Guimbard; Dale_Seeley; Jeanne_White; }
-	{rank = same; "63.5"; William_Lindahl_III; }
-	{rank = same; 64; Mitchell_Bilker; Millicient_Goldstein; Anna_Mrowka; Stanley_Murak_III; }
-	{rank = same; 66; Patricia_Drobat; Paul_Finkelstein; Raul_Gatchalian; Joseph_Summa; }
-	{rank = same; 67; Hunaid_Lookman; }
-	{rank = same; 68; Stephen_Buccellato; Dave_Gianna; Daniel_Fajardo; Theodor_Gross; Eugene_Howard; Jordan_Neuringer; }
-	{rank = same; 69; Susan_Auerbach; Darren_Brown; Rebecca_Carlin; Joseph_Cesarini; Janet_Duerr; Dominic_Gentile; David_Gucker; Shrikant_Kalegonkar; Victor_Parente; Katherine_; Elisabeth_Westenberger; Fr_James_Sauers; }
-	{rank = same; 70; Suzzane_DeFritas; Edward_Fisher; Jonathan_Simpson; Michael_Quatela; Keri_Rossi; Jeff_Veiss; Michael_James; }
-	{rank = same; 71; Sotharith_Nong; Richard_Savacool; }
-	{rank = same; 72; Barbara_Chautin; Jaime_Grimes; Soryia_Soto; }
-	{rank = same; 73; Ginea_Ginegaw; Jason_Klinger; Scott_Lawton; }
-	{rank = same; 74; Steven_Chung; }
-	{rank = same; 75; Alex_Polomski; }
-	{rank = same; 76; Brian_Miller; Nathan_Cahill; Danielle_Stollman; }
-	{rank = same; 77; Michelle_Burnett; Chris_Witlox; }
-	{rank = same; 79; Randy_Horwitz; Mike_Osbourne_Jr; }
-	{rank = same; "79.5"; Ed_Varel; }
-	{rank = same; "79.75"; Shalom_Skopitz; Valerie_Thompson; }
+	
+
 	
 		
 	/* Establishing the big to little relationships */
@@ -371,92 +291,6 @@
 	Britta_Fominaya -> Pamela_Pasciak;
 	Theodore_Lemmond -> Tammy_Sharpstene;
 	Marc_Hufschmied -> Daniel_Newhart;
-	Steven_Palmer -> Hyuk_Bae;
-	Theodore_Lemmond -> Kim_Brookmire;
-	Theodore_Lemmond -> Michael_Donati;
-	Matthew_Wickham -> Carol_Lohse;
-	Gregory_Bryniarski -> Michael_Malach;
-	William_Buchko -> Rene_Nordin;
-	Pamela_Pasciak -> Theresa_Kuhn;
-	John_Haddock -> Paul_Tracy;
-	James_Housley -> Abbas_Badani;
-	James_Housley -> Robert_OConner;
-	Gregory_Benz -> Jean_Brophy;
-	Gary_Falk -> Ronald_Kenny;
-	Jerald_LaPine -> Alex_Guimbard;
-	Michael_Malach -> Dale_Seeley;
-	Sandy_Niles -> Jeanne_White;
-	Neal_Eckhaus -> William_Lindahl_III;
-	Alex_Guimbard -> Mitchell_Bilker;
-	Pamela_Pasciak -> Millicient_Goldstein;
-	Jerald_LaPine -> Anna_Mrowka;
-	Gary_Falk -> Stanley_Murak_III;
-	Jeanne_White -> Patricia_Drobat;
-	Mitchell_Bilker -> Paul_Finkelstein;
-	Anna_Mrowka -> Raul_Gatchalian;
-	Abbas_Badani -> Joseph_Summa;
-	Anna_Mrowka -> Hunaid_Lookman;
-	Raul_Gatchalian -> Stephen_Buccellato;
-	Mitchell_Bilker -> Dave_Gianna;
-	Paul_Finkelstein -> Daniel_Fajardo;
-	Anna_Mrowka -> Theodor_Gross;
-	Anna_Mrowka -> Eugene_Howard;
-	Joseph_Summa -> Susan_Auerbach;
-	Eugene_Howard -> Darren_Brown;
-	Jordan_Neuringer -> Rebecca_Carlin;
-	Paul_Finkelstein -> Joseph_Cesarini;
-	Daniel_Fajardo -> Janet_Duerr;
-	Hunaid_Lookman -> Dominic_Gentile;
-	Anna_Mrowka -> David_Gucker;
-	Theodor_Gross -> Shrikant_Kalegonkar;
-	Dave_Gianna -> Victor_Parente;
-	Stephen_Buccellato -> Katherine_;
-	Mitchell_Bilker -> Elisabeth_Westenberger;
-	Fr_James_Sauers;
-	Joseph_Summa -> Suzzane_DeFritas;
-	Joseph_Cesarini -> Edward_Fisher;
-	Anna_Mrowka -> Jonathan_Simpson;
-	Janet_Duerr -> Michael_Quatela;
-	Theodor_Gross -> Keri_Rossi;
-	Elisabeth_Westenberger -> Jeff_Veiss;
-	Michael_James;
-	Susan_Auerbach -> Sotharith_Nong;
-	Victor_Parente -> Richard_Savacool;
-	William_Lindahl_III -> Barbara_Chautin;
-	William_Lindahl_III -> Jordan_Neuringer;
-	Stephen_Buccellato -> Jaime_Grimes;
-	David_Gucker -> Soryia_Soto;
-	Jonathan_Simpson -> Ginea_Ginegaw;
-	David_Gucker -> Jason_Klinger;
-	Katherine_ -> Scott_Lawton;
-	Barbara_Chautin -> Steven_Chung;
-	Darren_Brown -> Alex_Polomski;
-	Jaime_Grimes -> Brian_Miller;
-	Jordan_Neuringer -> Nathan_Cahill;
-	David_Gucker -> Danielle_Stollman;
-	Sotharith_Nong -> Michelle_Burnett;
-	Richard_Savacool -> Chris_Witlox;
-	Michelle_Burnett -> Randy_Horwitz;
-	Alex_Polomski -> Mike_Osbourne_Jr;
-	Jaime_Grimes -> Ed_Varel;
-	Ed_Varel -> Shalom_Skopitz;
-	Ed_Varel -> Valerie_Thompson;
-	Randy_Horwitz -> Lori_Scanlon;
-	Michelle_Burnett -> Kevin_LeVick;
-	Randy_Horwitz -> Mark_Insalaco;
-	Jaime_Grimes -> Anthony_LaPointe;
-	Jaime_Grimes -> Brian_Gilliam;
-	Lori_Scanlon -> Brian_McFadden;
-	Shalom_Skopitz -> Willis_Almekinder;
-	Ed_Varel -> Matt_Sparling;
-	Mark_Insalaco -> Susan_Koerner;
-	Lori_Scanlon -> Alexander_Lewis;
-	Valerie_Thompson -> Michael_Martin;
-	Randy_Horwitz -> Karyn_Palmer;
-	Valerie_Thompson -> Adam_Roberts;
-	Michael_Martin -> Michael_Osber;
-	
-	
 	
 	
 	/* Labeling all the brothers with a friendlier name and their pledge class */
@@ -757,89 +591,8 @@
 	Pamela_Pasciak [label="Pamela Pasciak\n59", labelloc=t];
 	Tammy_Sharpstene [label="Tammy Sharpstene\n59", labelloc=t];
 	Daniel_Newhart [label="Daniel Newhart\n59.5", labelloc=t];
-	Hyuk_Bae [label="Hyuk Bae\n60", labelloc=t];
-	Kim_Brookmire [label="Kim Brookmire\n60", labelloc=t];
-	Michael_Donati [label="Michael Donati\n60", labelloc=t];
-	Carol_Lohse [label="Carol Lohse\n60", labelloc=t];
-	Michael_Malach [label="Michael Malach\n60", labelloc=t];
-	Rene_Nordin [label="Rene Nordin\n60", labelloc=t];
-	Theresa_Kuhn [label="Theresa Kuhn\n61", labelloc=t];
-	Paul_Tracy [label="Paul Tracy\n61", labelloc=t];
-	Abbas_Badani [label="Abbas Badani\n62", labelloc=t];
-	Jean_Brophy [label="Jean Brophy\n62", labelloc=t];
-	Ronald_Kenny [label="Ronald Kenny\n62", labelloc=t];
-	Alex_Guimbard [label="Alex Guimbard\n63", labelloc=t];
-	Dale_Seeley [label="Dale Seeley\n63", labelloc=t];
-	Jeanne_White [label="Jeanne White\n63", labelloc=t];
-	William_Lindahl_III [label="William Lindahl III\n63.5", labelloc=t];
-	Mitchell_Bilker [label="Mitchell Bilker\n64", labelloc=t];
-	Millicient_Goldstein [label="Millicient Goldstein\n64", labelloc=t];
-	Anna_Mrowka [label="Anna Mrowka\n64",shape=octagon, labelloc=t];
-	Stanley_Murak_III [label="Stanley Murak III\n64", labelloc=t];
-	Patricia_Drobat [label="Patricia Drobat\n66", labelloc=t];
-	Paul_Finkelstein [label="Paul Finkelstein\n66", labelloc=t];
-	Raul_Gatchalian [label="Raul Gatchalian\n66", labelloc=t];
-	Joseph_Summa [label="Joseph Summa\n66", labelloc=t];
-	Hunaid_Lookman [label="Hunaid Lookman\n67", labelloc=t];
-	Stephen_Buccellato [label="Stephen Buccellato\n68", labelloc=t];
-	Dave_Gianna [label="Dave Gianna\n68", labelloc=t];
-	Daniel_Fajardo [label="Daniel Fajardo\n68", labelloc=t];
-	Theodor_Gross [label="Theodor Gross\n68", labelloc=t];
-	Eugene_Howard [label="Eugene Howard\n68", labelloc=t];
-	Jordan_Neuringer [label="Jordan Neuringer\n68", labelloc=t];
-	Susan_Auerbach [label="Susan Auerbach\n69", labelloc=t];
-	Darren_Brown [label="Darren Brown\n69", labelloc=t];
-	Rebecca_Carlin [label="Rebecca Carlin\n69", labelloc=t];
-	Joseph_Cesarini [label="Joseph Cesarini\n69", labelloc=t];
-	Janet_Duerr [label="Janet Duerr\n69", labelloc=t];
-	Dominic_Gentile [label="Dominic Gentile\n69", labelloc=t];
-	David_Gucker [label="David Gucker\n69", labelloc=t];
-	Shrikant_Kalegonkar [label="Shrikant Kalegonkar\n69", labelloc=t];
-	Victor_Parente [label="Victor Parente\n69", labelloc=t];
-	Katherine_ [label="Katherine NoName\n69", labelloc=t];
-	Elisabeth_Westenberger [label="Elisabeth Westenberger\n69", labelloc=t];
-	Fr_James_Sauers [label="Fr. James Sauers\n69 (Honorary)",style=dashed, labelloc=t];
-	Suzzane_DeFritas [label="Suzzane DeFritas\n70", labelloc=t];
-	Edward_Fisher [label="Edward Fisher\n70", labelloc=t];
-	Jonathan_Simpson [label="Jonathan Simpson\n70", labelloc=t];
-	Michael_Quatela [label="Michael Quatela\n70", labelloc=t];
-	Keri_Rossi [label="Keri Rossi\n70", labelloc=t];
-	Jeff_Veiss [label="Jeff Veiss\n70", labelloc=t];
-	Michael_James [label="Michael James\n70, Honorary",style=dashed, labelloc=t];
-	Sotharith_Nong [label="Sotharith Nong\n71", labelloc=t];
-	Richard_Savacool [label="Richard Savacool\n71", labelloc=t];
-	Barbara_Chautin [label="Barbara Chautin\n72", labelloc=t];
-	Jaime_Grimes [label="Jaime Grimes\n72",shape=octagon, labelloc=t];
-	Soryia_Soto [label="Soryia Soto\n72", labelloc=t];
-	Ginea_Ginegaw [label="Ginea Ginegaw\n73", labelloc=t];
-	Jason_Klinger [label="Jason Klinger\n73", labelloc=t];
-	Scott_Lawton [label="Scott Lawton\n73", labelloc=t];
-	Steven_Chung [label="Steven Chung\n74", labelloc=t];
-	Alex_Polomski [label="Alex Polomski\n75", labelloc=t];
-	Brian_Miller [label="Brian Miller\n76", labelloc=t];
-	Nathan_Cahill [label="Nathan Cahill\n76", labelloc=t];
-	Danielle_Stollman [label="Danielle Stollman\n76", labelloc=t];
-	Michelle_Burnett [label="Michelle Burnett\n77", labelloc=t];
-	Chris_Witlox [label="Chris Witlox\n77", labelloc=t];
-	Randy_Horwitz [label="Randy Horwitz\n79", labelloc=t];
-	Mike_Osbourne_Jr [label="Mike Osbourne, Jr.\n79", labelloc=t];
-	Ed_Varel [label="Ed Varel\n79.5",shape=octagon, labelloc=t];
-	Shalom_Skopitz [label="Shalom Skopitz\n79.75", labelloc=t];
-	Valerie_Thompson [label="Valerie Thompson\n79.75", labelloc=t];
-	Lori_Scanlon [label="Lorianne 'Lori' Scanlon\n80", labelloc=t];
-	Kevin_LeVick [label="Kevin LeVick\n80", labelloc=t];
-	Mark_Insalaco [label="Mark Insalaco\n80",shape=octagon, labelloc=t];
-	Anthony_LaPointe [label="Anthony LaPointe\n80", labelloc=t];
-	Brian_Gilliam [label="Brian Gilliam\n80", labelloc=t];
-	Brian_McFadden [label="Brian McFadden\n80.5", labelloc=t];
-	Willis_Almekinder [label="Willis Almekinder\n81", labelloc=t];
-	Matt_Sparling [label="Matt Sparling\n81", labelloc=t];
-	Susan_Koerner [label="Susan Koerner\n82", labelloc=t];
-	Alexander_Lewis [label="Alexander Lewis\n82", labelloc=t];
-	Michael_Martin [label="Michael Martin\n82", labelloc=t];
-	Karyn_Palmer [label="Karyn Palmer\n82", labelloc=t];
-	Adam_Roberts [label="Adam Roberts\n82", labelloc=t];
-	Michael_Osber [label="Michael Osber\n83", labelloc=t];
+	
+	
 
 	/* Problem Children */
 	Phil_Senise [label="Phil Senise\nTransfer?", labelloc=t];
@@ -854,33 +607,369 @@
 	Jack_Mathis [label="Jack Mathis\nTransfer?", labelloc=t];
 	Gary_Cox [label="Gary Cox\nTransfer from SUNY 'somewhere'", labelloc=t];
 	Robert_OConner [label="Robert O'Conner\nTransfer from Gamma Lambda", labelloc=t];
+	James_Housley -> Robert_OConner;
 	//Slowly moving to a pledge-class based text layout. Make sure when adding to add entire pledge classes. Pledges who do not make Brotherhood should not appear on the family tree, but should be recorded in the book of life.
 	
+	{rank = same; FB; Carleton_Allen; Edwin_Anderson; Richard_Barazzotto; Larry_Bartholomew; Maurice_Bartikofsky; John_Blair; John_Bowser; Franklin_Dierke; Steven_Eisenberg; Joel_Entin; Robert_Frank; Kevin_Gilson; Ronald_Graner; Harvey_Greenberg; Joseph_Greenberg; Louis_Jacobson; Roger_Kramer; Robert_Lambert; Donald_Manges; Jack_Marshall; Francis_Millor; William_Muto; David_Page; Richard_Parett; Myron_Rapkin; Leon_Schilling; David_Stern; James_Stevens; Terry_Sutfin; Paul_Tan; John_Tenz; Karl_Thurber_Jr; David_Wilson; Gary_Greenfield; }
+	{rank = same; 1; Thomas_Recktenwalt; John_Balser; Wiliam_Darrow; Joseph_DeJohn; Harry_Drake; Peter_Glidden; Leslie_Johnson; }
+	{rank = same; 2; George_Martin; Raymond_August; Richard_Begbie; Gary_Dreo; Paul_Lahr; David_McKay; Laurence_Nelkins; }
+	{rank = same; 3; William_Allen; Gary_Bogue; John_Casoni; Cornelius_Illenberg; John_Prevost; }
+	{rank = same; 4; Jack_Glover; Joseph_Davey; Theodore_Fleury; James_Olin; Jeffrey_Rosenberg; }
+	{rank = same; 5; David_Kelch; Robert_Studley; Gary_Williams; Walter_Winchell; }
+	{rank = same; 6; Clem_McSorley; Lawrence_Butler; David_Fierman; Edward_Magee; Ronald_Tannenbaum; }
+	{rank = same; 7; John_Seibt; Ronald_Antioco; Thomas_Howarth; }
+	{rank = same; 8; Paul_Wilson; Fred_Grant; William_Heimbach; Steve_Whitaker; }
+	{rank = same; 9; John_Hammeken_III; Michael_Allen; Stanley_Morse; Clifton_Snider; }
+	{rank = same; 10; Andrew_Morgan; Wendall_Brown; Damon_MacPherson; }
+	{rank = same; 11; Donald_Comstock; Barry_Hartman; Niles_Oliver; Clyde_Solenski; Joseph_Ward; }
+	{rank = same; 12; Kevin_Keator; John_Bechtel; Harold_Larson; Michael_Obstein; Larry_Pocobello; Joseph_Roth; JC_Williams; }
+	{rank = same; 13; Henry_Olson; Ralph_Cyr; Tom_Donovan; Neil_Gorfain; Daniel_Sinto; Ronald_Westcott; }
+	{rank = same; 14; Carl_Palmer; N_Delorimier; Gregory_Reynolds; David_West; }
+	{rank = same; 15; Brian_Charbonneau; David_Turbide; Gerald_Waterman; E_William_Weeks; }
+	{rank = same; 16; Scott_Sims; Steven_Brown; Gary_Dutcher; H_Sieber; Gary_Tucker; }
+	{rank = same; 17; James_Tetor; Richard_Beck; David_Greso; Harvey_Taylor; Bob_Harrison; Mark_Waldman; }
+	{rank = same; 18; Gerry_Segelman; Jeff_Barlowe; Anthony_Coloroso; Michael_OHara; Steven_Schultz; Michael_Smith; }
+	{rank = same; 19; Daniel_Edwards; }
+	{rank = same; 20; Ronald_Beuzenburg; Thomas_Camiolo; Raymond_DiBiase; Robert_Larson; }
+	{rank = same; 21; L_DeMent; Edward_Shirey; }
+	{rank = same; 22; John_Roberts; Michael_Doud; }
+	{rank = same; 23; James_Yost; Edward_Amos_Jr; James_Kloepfer; Ronald_Lippert; Thomas_Reilly; Al_Abrams; }
+	{rank = same; 24; Floyd_Black; Harvey_Duze; }
+	{rank = same; 25; Gerald_Oakley; John_DeBaradinis; William_Dingle; William_Gearing; Lawrence_Hill; Neil_Rappenecker; }
+	{rank = same; 26; John_Brotherhood; James_Cunnings; }
+	{rank = same; 27; Robert_Carmagnola; Hiram_Bell; Neil_Citron; James_DeWan; Robert_Eastham; Ronald_Hopkins; William_Mueller; Robert_Seyfert; }
+	{rank = same; 28; David_Dickinson; Herbert_Jacobson; Stephen_Richards; }
+	{rank = same; 29; Hal_Schulman; James_Buchek; Russel_Fuchs; Brian_Hatkoff; Edward_Pomeroy; Dan_Stasiuk; Gerald_Williams; }
+	{rank = same; 30; Peter_Los; Joseph_Hickson; Robert_Faulkner; Jerry_Helmer; Larry_Schindel; Frederic_Valentini; }
+	{rank = same; 31; Tate_Kelly; Larry_Evans; Kenn_Hollister; Royd_Oberg; Michael_Small; }
+	{rank = same; 32; Gregg_Lambrix; Ray_Edwards; Steve_Gendron; Jesse_Logan; Ralph_Pellegrini; Ralph_Plaideau; }
+	{rank = same; 33; Tom_Baldwin; Larry_Cramer; Rich_Bachelder; }
+	{rank = same; 34; Dirk_Hiney; Dave_Budd; Chris_Supkis; }
+	{rank = same; 35; Paul_Borkowski; Mike_Brown; Michael_Payette; Paul_Ray; }
+	{rank = same; 37; Donald_Faulkner; David_McDowell; Joe_Novak; Alan_Leighton; Larry_Mange; }
+	{rank = same; 38; Wayne_Webster; Phillip_Freedman; Marvin_Hein; William_Beyerbach; Jack_Makowski; Mordecai_Lipshutz; }
+	{rank = same; 39; Dan_Denkin; James_Delahanty; Lee_Dorobiala; James_Robson; Gary_Steinbeck; William_Terrell; }
+	{rank = same; 40; James_Edmonds; Mark_Heath; }
+	{rank = same; 41; Rick_Hopp; Lester_Oakes; }
+	{rank = same; 42; Dean_Syajna; Dave_Albrecht; Rick_Higgs; John_Casey; Christopher_Hurley; }
+	{rank = same; 43; Dave_McHarg; Gary_DeFrancisco; John_Mischler; Kevin_Richards; }
+	{rank = same; 44; Jeff_Benedict; Mark_Goldberg; Mark_Kennedy; }
+	{rank = same; 45; Anthony_Austin; Neal_Eckhaus; David_Gould; Roy_Saucier; }
+	{rank = same; 46; Victor_Creveling; Jim_Jackson; Jeff_Opperman; Eddy_Young; }
+	{rank = same; 47; John_Letteney; Michael_Zimmerman; }
+	{rank = same; 48; Michael_Mulcahy; Gregory_Tutino; }
+	{rank = same; 49; Stewart_Place; William_Sheedy; }
+	{rank = same; 50; John_Hartmann; Jeff_Rosenbaum; Mark_Verbryck; }
+	{rank = same; 51; Susan_Fikes; Scott_Anderson; William_Buchko; Taesan_Chun; Jeffrey_Frink; Michael_Frank; Jordan_Gunther; Maureen_Parrotte; Tim_Rohl; Robert_Urillo; }
+	{rank = same; 52; Raymond_Caruso; Gregory_Bryniarski; Diane_Gibbons; Andrew_Canistra; Stephen_Portrude; }
+	{rank = same; 53; Scot_Nungesser; Wanda_Watson; Gretchen_VanUllen; }
+	{rank = same; 54; Kenneth_Carpenter; Laurie_DiNatale; James_Hartmann; Michael_Kim; David_Schulte; William_Trombadore; }
+	{rank = same; 55; James_Housley; Katherine_Devlin; Bethany_Fuller; Margaret_Kinghorn; Mark_McLeod; Patrick_Winter; }
+	{rank = same; 56; Dawn_Anstett; Jamie_Davis; Robert_E_Lee_Correll_IV; Gary_Falk; }
+	{rank = same; 57; Britta_Fominaya; Michelle_Fryman; Marc_Hufschmied; John_Jenkins; Wilmot_Mitchell; Michelle_Myer; Matthew_Wickham; Lawrence_Wolf; }
+	{rank = same; "57.5"; Theodore_Lemmond; }
+	{rank = same; 58; Gregory_Benz; Meredith_Leavitt; Steven_Palmer; }
+	{rank = same; 59; Jeanine_Donati; Alayne_Gosson; John_Haddock; Jerald_LaPine; Sandy_Niles; Pamela_Pasciak; Tammy_Sharpstene; }
+	{rank = same; "59.5"; Daniel_Newhart; }
 	
+
+	/* PC 60 */
+	{rank = same; 60; Hyuk_Bae; Kim_Brookmire; Michael_Donati; Carol_Lohse; Michael_Malach; Rene_Nordin; }
+		/* Bigs */
+			Steven_Palmer -> Hyuk_Bae;
+			Theodore_Lemmond -> Kim_Brookmire;
+			Theodore_Lemmond -> Michael_Donati;
+			Matthew_Wickham -> Carol_Lohse;
+			Gregory_Bryniarski -> Michael_Malach;
+			William_Buchko -> Rene_Nordin;
+		/* Labels */
+			Hyuk_Bae [label="Hyuk Bae\n60", labelloc=t];
+			Kim_Brookmire [label="Kim Brookmire\n60", labelloc=t];
+			Michael_Donati [label="Michael Donati\n60", labelloc=t];
+			Carol_Lohse [label="Carol Lohse\n60", labelloc=t];
+			Michael_Malach [label="Michael Malach\n60", labelloc=t];
+			Rene_Nordin [label="Rene Nordin\n60", labelloc=t];
+
+	/* PC 61 */
+	{rank = same; 61; Theresa_Kuhn; Paul_Tracy; }
+		/* Bigs */
+			Pamela_Pasciak -> Theresa_Kuhn;
+			John_Haddock -> Paul_Tracy;
+		/* Labels */
+			Theresa_Kuhn [label="Theresa Kuhn\n61", labelloc=t];
+			Paul_Tracy [label="Paul Tracy\n61", labelloc=t];
+
+	/* PC 62 */
+	{rank = same; 62; Abbas_Badani; Jean_Brophy; Ronald_Kenny; }
+		/* Bigs */
+			James_Housley -> Abbas_Badani;
+			Gregory_Benz -> Jean_Brophy;
+			Gary_Falk -> Ronald_Kenny;
+		/* Labels */
+			Abbas_Badani [label="Abbas Badani\n62", labelloc=t];
+			Jean_Brophy [label="Jean Brophy\n62", labelloc=t];
+			Ronald_Kenny [label="Ronald Kenny\n62", labelloc=t];
+
+	/* PC 63 */
+	{rank = same; 63; Alex_Guimbard; Dale_Seeley; Jeanne_White; }
+		/* Bigs */
+			Jerald_LaPine -> Alex_Guimbard;
+			Michael_Malach -> Dale_Seeley;
+			Sandy_Niles -> Jeanne_White;
+		/* Labels */
+			Alex_Guimbard [label="Alex Guimbard\n63", labelloc=t];
+			Dale_Seeley [label="Dale Seeley\n63", labelloc=t];
+			Jeanne_White [label="Jeanne White\n63", labelloc=t];
+
+	/* PC "63.5" */
+	{rank = same; "63.5"; William_Lindahl_III; }
+		/* Bigs */
+			Neal_Eckhaus -> William_Lindahl_III;
+		/* Labels */
+			William_Lindahl_III [label="William Lindahl III\n63.5", labelloc=t];
+
+	/* PC 64 */
+	{rank = same; 64; Mitchell_Bilker; Millicient_Goldstein; Anna_Mrowka; Stanley_Murak_III; }
+		/* Bigs */
+			Alex_Guimbard -> Mitchell_Bilker;
+			Pamela_Pasciak -> Millicient_Goldstein;
+			Jerald_LaPine -> Anna_Mrowka;
+			Gary_Falk -> Stanley_Murak_III;
+		/* Labels */
+			Mitchell_Bilker [label="Mitchell Bilker\n64", labelloc=t];
+			Millicient_Goldstein [label="Millicient Goldstein\n64", labelloc=t];
+			Anna_Mrowka [label="Anna Mrowka\n64",shape=octagon, labelloc=t];
+			Stanley_Murak_III [label="Stanley Murak III\n64", labelloc=t];
+
+	/* PC 66 */
+	{rank = same; 66; Patricia_Drobat; Paul_Finkelstein; Raul_Gatchalian; Joseph_Summa; }
+		/* Bigs */
+			Jeanne_White -> Patricia_Drobat;
+			Mitchell_Bilker -> Paul_Finkelstein;
+			Anna_Mrowka -> Raul_Gatchalian;
+			Abbas_Badani -> Joseph_Summa;
+		/* Labels */
+			Patricia_Drobat [label="Patricia Drobat\n66", labelloc=t];
+			Paul_Finkelstein [label="Paul Finkelstein\n66", labelloc=t];
+			Raul_Gatchalian [label="Raul Gatchalian\n66", labelloc=t];
+			Joseph_Summa [label="Joseph Summa\n66", labelloc=t];
+
+	/* PC 67 */
+	{rank = same; 67; Hunaid_Lookman; }
+		/* Bigs */
+			Anna_Mrowka -> Hunaid_Lookman;
+		/* Labels */
+			Hunaid_Lookman [label="Hunaid Lookman\n67", labelloc=t];
+
+	/* PC 68 */
+	{rank = same; 68; Stephen_Buccellato; Dave_Gianna; Daniel_Fajardo; Theodor_Gross; Eugene_Howard; Jordan_Neuringer; }
+		/* Bigs */
+			Raul_Gatchalian -> Stephen_Buccellato;
+			Mitchell_Bilker -> Dave_Gianna;
+			Paul_Finkelstein -> Daniel_Fajardo;
+			Anna_Mrowka -> Theodor_Gross;
+			Anna_Mrowka -> Eugene_Howard;
+			William_Lindahl_III -> Jordan_Neuringer;
+		/* Labels */
+			Stephen_Buccellato [label="Stephen Buccellato\n68", labelloc=t];
+			Dave_Gianna [label="Dave Gianna\n68", labelloc=t];
+			Daniel_Fajardo [label="Daniel Fajardo\n68", labelloc=t];
+			Theodor_Gross [label="Theodor Gross\n68", labelloc=t];
+			Eugene_Howard [label="Eugene Howard\n68", labelloc=t];
+			Jordan_Neuringer [label="Jordan Neuringer\n68", labelloc=t];
+
+	/* PC 69 */
+	{rank = same; 69; Susan_Auerbach; Darren_Brown; Rebecca_Carlin; Joseph_Cesarini; Janet_Duerr; Dominic_Gentile; David_Gucker; Shrikant_Kalegonkar; Victor_Parente; Katherine_; Elisabeth_Westenberger; Fr_James_Sauers; }
+		/* Bigs */
+			Joseph_Summa -> Susan_Auerbach;
+			Eugene_Howard -> Darren_Brown;
+			Jordan_Neuringer -> Rebecca_Carlin;
+			Paul_Finkelstein -> Joseph_Cesarini;
+			Daniel_Fajardo -> Janet_Duerr;
+			Hunaid_Lookman -> Dominic_Gentile;
+			Anna_Mrowka -> David_Gucker;
+			Theodor_Gross -> Shrikant_Kalegonkar;
+			Dave_Gianna -> Victor_Parente;
+			Stephen_Buccellato -> Katherine_;
+			Mitchell_Bilker -> Elisabeth_Westenberger;
+			Fr_James_Sauers;
+		/* Labels */
+			Susan_Auerbach [label="Susan Auerbach\n69", labelloc=t];
+			Darren_Brown [label="Darren Brown\n69", labelloc=t];
+			Rebecca_Carlin [label="Rebecca Carlin\n69", labelloc=t];
+			Joseph_Cesarini [label="Joseph Cesarini\n69", labelloc=t];
+			Janet_Duerr [label="Janet Duerr\n69", labelloc=t];
+			Dominic_Gentile [label="Dominic Gentile\n69", labelloc=t];
+			David_Gucker [label="David Gucker\n69", labelloc=t];
+			Shrikant_Kalegonkar [label="Shrikant Kalegonkar\n69", labelloc=t];
+			Victor_Parente [label="Victor Parente\n69", labelloc=t];
+			Katherine_ [label="Katherine NoName\n69", labelloc=t];
+			Elisabeth_Westenberger [label="Elisabeth Westenberger\n69", labelloc=t];
+			Fr_James_Sauers [label="Fr. James Sauers\n69 (Honorary)",style=dashed, labelloc=t];
+
+	/* PC 70 */
+	{rank = same; 70; Suzzane_DeFritas; Edward_Fisher; Jonathan_Simpson; Michael_Quatela; Keri_Rossi; Jeff_Veiss; Michael_James; }
+		/* Bigs */
+			Joseph_Summa -> Suzzane_DeFritas;
+			Joseph_Cesarini -> Edward_Fisher;
+			Anna_Mrowka -> Jonathan_Simpson;
+			Janet_Duerr -> Michael_Quatela;
+			Theodor_Gross -> Keri_Rossi;
+			Elisabeth_Westenberger -> Jeff_Veiss;
+			Michael_James;
+		/* Labels */
+			Suzzane_DeFritas [label="Suzzane DeFritas\n70", labelloc=t];
+			Edward_Fisher [label="Edward Fisher\n70", labelloc=t];
+			Jonathan_Simpson [label="Jonathan Simpson\n70", labelloc=t];
+			Michael_Quatela [label="Michael Quatela\n70", labelloc=t];
+			Keri_Rossi [label="Keri Rossi\n70", labelloc=t];
+			Jeff_Veiss [label="Jeff Veiss\n70", labelloc=t];
+			Michael_James [label="Michael James\n70, Honorary",style=dashed, labelloc=t];
+
+	/* PC 71 */
+	{rank = same; 71; Sotharith_Nong; Richard_Savacool; }
+		/* Bigs */
+			Susan_Auerbach -> Sotharith_Nong;
+			Victor_Parente -> Richard_Savacool;
+		/* Labels */
+			Sotharith_Nong [label="Sotharith Nong\n71", labelloc=t];
+			Richard_Savacool [label="Richard Savacool\n71", labelloc=t];
+
+	/* PC 72 */
+	{rank = same; 72; Barbara_Chautin; Jaime_Grimes; Soryia_Soto; }
+		/* Bigs */
+			William_Lindahl_III -> Barbara_Chautin;
+			Stephen_Buccellato -> Jaime_Grimes;
+			David_Gucker -> Soryia_Soto;
+		/* Labels */
+			Barbara_Chautin [label="Barbara Chautin\n72", labelloc=t];
+			Jaime_Grimes [label="Jaime Grimes\n72",shape=octagon, labelloc=t];
+			Soryia_Soto [label="Soryia Soto\n72", labelloc=t];
+
+	/* PC 73 */
+	{rank = same; 73; Ginea_Ginegaw; Jason_Klinger; Scott_Lawton; }
+		/* Bigs */
+			Jonathan_Simpson -> Ginea_Ginegaw;
+			David_Gucker -> Jason_Klinger;
+			Katherine_ -> Scott_Lawton;
+		/* Labels */
+			Ginea_Ginegaw [label="Ginea Ginegaw\n73", labelloc=t];
+			Jason_Klinger [label="Jason Klinger\n73", labelloc=t];
+			Scott_Lawton [label="Scott Lawton\n73", labelloc=t];
+	
+	/* PC 74 */
+	{rank = same; 74; Steven_Chung; }
+		/* Bigs */
+			Barbara_Chautin -> Steven_Chung;
+		/* Labels */
+			Steven_Chung [label="Steven Chung\n74", labelloc=t];
+
+	/* PC 75 */
+	{rank = same; 75; Alex_Polomski; }
+		/* Bigs */
+			Darren_Brown -> Alex_Polomski;
+		/* Labels */
+			Alex_Polomski [label="Alex Polomski\n75", labelloc=t];
+
+	/* PC 76 */
+	{rank = same; 76; Brian_Miller; Nathan_Cahill; Danielle_Stollman; }
+		/* Bigs */
+			Jaime_Grimes -> Brian_Miller;
+			Jordan_Neuringer -> Nathan_Cahill;
+			David_Gucker -> Danielle_Stollman;
+		/* Labels */
+			Brian_Miller [label="Brian Miller\n76", labelloc=t];
+			Nathan_Cahill [label="Nathan Cahill\n76", labelloc=t];
+			Danielle_Stollman [label="Danielle Stollman\n76", labelloc=t];
+
+	/* PC 77 */
+	{rank = same; 77; Michelle_Burnett; Chris_Witlox; }
+		/* Bigs */
+			Sotharith_Nong -> Michelle_Burnett;
+			Richard_Savacool -> Chris_Witlox;
+		/* Labels */
+			Michelle_Burnett [label="Michelle Burnett\n77", labelloc=t];
+			Chris_Witlox [label="Chris Witlox\n77", labelloc=t];
+
+	/* PC 79 */
+	{rank = same; 79; Randy_Horwitz; Mike_Osbourne_Jr; }
+		/* Bigs */
+			Michelle_Burnett -> Randy_Horwitz;
+			Alex_Polomski -> Mike_Osbourne_Jr;
+		/* Labels */
+			Randy_Horwitz [label="Randy Horwitz\n79", labelloc=t];
+			Mike_Osbourne_Jr [label="Mike Osbourne, Jr.\n79", labelloc=t];
+
+	/* PC "79.5" */
+	{rank = same; "79.5"; Ed_Varel; }
+		/* Bigs */
+			Jaime_Grimes -> Ed_Varel;
+		/* Labels */
+			Ed_Varel [label="Ed Varel\n79.5",shape=octagon, labelloc=t];
+
+	/* PC "79.75" */
+	{rank = same; "79.75"; Shalom_Skopitz; Valerie_Thompson; }
+		/* Bigs */
+			Ed_Varel -> Shalom_Skopitz;
+			Ed_Varel -> Valerie_Thompson;
+		/* Labels */
+			Shalom_Skopitz [label="Shalom Skopitz\n79.75", labelloc=t];
+			Valerie_Thompson [label="Valerie Thompson\n79.75", labelloc=t];
+
 	/* PC 80 */
 		{rank = same; 80; Lori_Scanlon; Kevin_LeVick; Mark_Insalaco; Anthony_LaPointe; Brian_Gilliam; }
 		/* Bigs */
+			Randy_Horwitz -> Lori_Scanlon;
+			Michelle_Burnett -> Kevin_LeVick;
+			Randy_Horwitz -> Mark_Insalaco;
+			Jaime_Grimes -> Anthony_LaPointe;
+			Jaime_Grimes -> Brian_Gilliam;
 		/* Labels */
+			Lori_Scanlon [label="Lorianne 'Lori' Scanlon\n80", labelloc=t];
+			Kevin_LeVick [label="Kevin LeVick\n80", labelloc=t];
+			Mark_Insalaco [label="Mark Insalaco\n80",shape=octagon, labelloc=t];
+			Anthony_LaPointe [label="Anthony LaPointe\n80", labelloc=t];
+			Brian_Gilliam [label="Brian Gilliam\n80", labelloc=t];
+
 
 	/* PC "80.5" */
 		{rank = same; "80.5"; Brian_McFadden; }
 		/* Bigs */
+			Lori_Scanlon -> Brian_McFadden;
 		/* Labels */
+			Brian_McFadden [label="Brian McFadden\n80.5", labelloc=t];
 
 	/* PC 81 */
 		{rank = same; 81; Willis_Almekinder; Matt_Sparling; }
 		/* Bigs */
+			Shalom_Skopitz -> Willis_Almekinder;
+			Ed_Varel -> Matt_Sparling;
 		/* Labels */
+			Willis_Almekinder [label="Willis Almekinder\n81", labelloc=t];
+			Matt_Sparling [label="Matt Sparling\n81", labelloc=t];
 
 	/* PC 82 */
 		{rank = same; 82; Susan_Koerner; Alexander_Lewis; Michael_Martin; Karyn_Palmer; Adam_Roberts; }
 		/* Bigs */
+			Mark_Insalaco -> Susan_Koerner;
+			Lori_Scanlon -> Alexander_Lewis;
+			Valerie_Thompson -> Michael_Martin;
+			Randy_Horwitz -> Karyn_Palmer;
+			Valerie_Thompson -> Adam_Roberts;
 		/* Labels */
+			Susan_Koerner [label="Susan Koerner\n82", labelloc=t];
+			Alexander_Lewis [label="Alexander Lewis\n82", labelloc=t];
+			Michael_Martin [label="Michael Martin\n82", labelloc=t];
+			Karyn_Palmer [label="Karyn Palmer\n82", labelloc=t];
+			Adam_Roberts [label="Adam Roberts\n82", labelloc=t];
 
 	/* PC 83 */
 		{rank = same; 83; Michael_Osber; }
 		/* Bigs */
+			Michael_Martin -> Michael_Osber;
 		/* Labels */
+			Michael_Osber [label="Michael Osber\n83", labelloc=t];
+
 	/* PC 84 */
 		{rank = same; 84; Todd_Burtchell; Somphachan_Phetphanh; }
 		
@@ -891,8 +980,6 @@
 		/* Labels */
 			Todd_Burtchell [label="Todd Burtchell\n84", labelloc=t];
 			Somphachan_Phetphanh [label="Somphachan Phetphanh\n84", labelloc=t];
-	
-	
 
 	/* PC 85 */
 		{rank = same; 85; Scott_Rankin; Jennifer_Bowers; Roberta_Rapp; }

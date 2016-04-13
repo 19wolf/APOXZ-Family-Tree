@@ -9,16 +9,16 @@ node [shape=plaintext, fontsize=12, labelloc=t];
 /* Side bar for the pledge classes */
 FB -> 1 -> 2 -> 3 -> 4 -> 5 -> 6 -> 7 -> 8 -> 9 -> 10 -> 11 -> 12 -> 13 -> 14 -> 15 -> 16 -> 17 -> 18 -> 19 -> 20 -> 21 -> 22 -> 23 -> 24 -> 25 -> 26 -> 27 -> 28 -> 29 -> 30 -> 31 -> 32 -> 33 -> 34 -> 35 -> 37 -> 38 -> 39 -> 40 -> 41 -> 42 -> 43 -> 44 -> 45 -> 46 -> 47 -> 48 -> 49 -> 50 -> 51 -> 52 -> 53 -> 54 -> 55 -> 56 -> 57 -> "57.5" -> 58 -> 59 -> "59.5" -> 60 -> 61 -> 62 -> 63 -> "63.5" -> 64 -> 66 -> 67 -> 68 -> 69 -> 70 -> 71 -> 72 -> 73 -> 74 -> 75 -> 76 -> 77 -> 79 -> "79.5" -> "79.75" -> 80 -> "80.5" -> 81 -> 82 -> 83 -> 84 -> 85 -> 86 -> 87 -> 88 -> 89 -> "89.5" -> 90 -> 91 -> 93 -> 95 -> 96 -> 97 -> 98 -> 99 -> 100 -> 101 -> 102 -> 103 -> 104 -> 105 -> "105.5" -> 106 -> 107 -> "108.5" -> 109 -> 110 -> 111 -> 112 -> 113 -> 114 -> 115 -> 116 -> 117 -> 118 -> 119 -> 120 -> 121 -> 122 -> 123 -> 124 -> 125 -> 126 -> 127 -> 128 -> 129 -> 130;
 
-
-/* First Pledge Class Brothers*/
+/* First Pledge Class Brothers, this is needed for initialization purposes or something I think*/
 Carleton_Allen; Edwin_Anderson; Richard_Barazzotto; Larry_Bartholomew; Maurice_Bartikofsky; John_Blair; John_Bowser; Franklin_Dierke; Steven_Eisenberg; Joel_Entin; Robert_Frank; Kevin_Gilson; Ronald_Graner; Harvey_Greenberg; Joseph_Greenberg; Louis_Jacobson; Roger_Kramer; Robert_Lambert; Donald_Manges; Jack_Marshall; Francis_Millor; William_Muto; David_Page; Richard_Parett; Myron_Rapkin; Leon_Schilling; David_Stern; James_Stevens; Terry_Sutfin; Paul_Tan; John_Tenz; Karl_Thurber_Jr; David_Wilson; Gary_Greenfield;
 }
 
-/* Associating the brother with their pledge class */
 node [shape=box, labelloc=t];
 splines=curve;
 
+/* Problem children who have no class */
 
+Phil_Senise [label="Phil Senise\nTransfer?\n PC 0 or 1", labelloc=t];
 Robert_Keiser [label="Robert Keiser\nTransfer?", labelloc=t];
 Jack_Bitner [label="Jack Bitner\nTransfer?", labelloc=t];
 Paul_Collin [label="Paul Collin\nTransfer?", labelloc=t];
@@ -26,10 +26,14 @@ James_Glasenapp [label="James Glasenapp\nTransfer", labelloc=t];
 James_Cummings [label="James Cummings\nTransfer?", labelloc=t];
 A_Stephen_Walls [label="A. Stephen Walls\nAdvisor", labelloc=t];
 Jack_Mathis [label="Jack Mathis\nTransfer?", labelloc=t];
+Gary_Cox [label="Gary Cox\nTransfer from a SUNY school", labelloc=t];
+
+
 
 /* PC 0 (Founding Brothers) */
 	{rank = same; FB; Carleton_Allen; Edwin_Anderson; Richard_Barazzotto; Larry_Bartholomew; Maurice_Bartikofsky; John_Blair; John_Bowser; Franklin_Dierke; Steven_Eisenberg; Joel_Entin; Robert_Frank; Kevin_Gilson; Ronald_Graner; Harvey_Greenberg; Joseph_Greenberg; Louis_Jacobson; Roger_Kramer; Robert_Lambert; Donald_Manges; Jack_Marshall; Francis_Millor; William_Muto; David_Page; Richard_Parett; Myron_Rapkin; Leon_Schilling; David_Stern; James_Stevens; Terry_Sutfin; Paul_Tan; John_Tenz; Karl_Thurber_Jr; David_Wilson; Gary_Greenfield; }
 	/* Bigs */
+		/* Mu_Lambda; */
 	/* Labels */
 		Carleton_Allen [label="Carleton Allen\nFB", labelloc=t];
 		Edwin_Anderson [label="Edwin Anderson\nFB", labelloc=t];
@@ -387,12 +391,14 @@ Jack_Mathis [label="Jack Mathis\nTransfer?", labelloc=t];
 		Gary_Tucker -> James_Kloepfer;
 		Mark_Waldman -> Ronald_Lippert;
 		James_Tetor -> Thomas_Reilly;
+		Gary_Dutcher -> Al_Abrams;
 	/* Labels */
 		James_Yost [label="James Yost\n23", labelloc=t];
 		Edward_Amos_Jr [label="Edward Amos, Jr.\n23", labelloc=t];
 		James_Kloepfer [label="James Kloepfer\n23", labelloc=t];
 		Ronald_Lippert [label="Ronald Lippert\n23", labelloc=t];
 		Thomas_Reilly [label="Thomas Reilly\n23", labelloc=t];
+		Al_Abrams [label="Al Abrams\n23", labelloc=t];
 
 /* PC 24 */
 	{rank = same; 24; Floyd_Black; Harvey_Duze; }
@@ -855,9 +861,12 @@ Jack_Mathis [label="Jack Mathis\nTransfer?", labelloc=t];
 		Lawrence_Wolf [label="Lawrence Wolf\n57", labelloc=t];
 
 /* PC "57.5" */
+	{rank = same; "57.5"; Theodore_Lemmond; Robert_OConner; }
 	/* Bigs */
 		Margaret_Kinghorn -> Theodore_Lemmond;
+		James_Housley -> Robert_OConner;
 	/* Labels */
+		Robert_OConner [label="Robert O'Conner\nTransfer from Gamma Lambda\nPC between 56 and 58", labelloc=t];
 		Theodore_Lemmond [label="Theodore Lemmond\n57.5", labelloc=t];
 
 /* PC 58 */

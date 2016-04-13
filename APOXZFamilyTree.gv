@@ -46,7 +46,7 @@ splines=curve;
 		Harvey_Greenberg [label="Harvey Greenberg\nFB", labelloc=t];
 		Joseph_Greenberg [label="Joseph Greenberg\nFB", labelloc=t];
 		Louis_Jacobson [label="Louis Jacobson\nFB", labelloc=t];
-		Roger_Kramer [label="Roger Kramer\nFB",shape=octagon, labelloc=t];
+		Roger_Kramer [label="Roger Kramer\nFB",shape=oval, labelloc=t];
 		Robert_Lambert [label="Robert Lambert\nFB", labelloc=t];
 		Donald_Manges [label="Donald Manges\nFB", labelloc=t];
 		Jack_Marshall [label="Jack Marshall\nFB", labelloc=t];
@@ -99,7 +99,7 @@ splines=curve;
 	/* Labels */
 		George_Martin [label="George Martin\n2", labelloc=t];
 		Raymond_August [label="Raymond August\n2", labelloc=t];
-		Richard_Begbie [label="Richard Begbie\n2",shape=octagon, labelloc=t];
+		Richard_Begbie [label="Richard Begbie\n2",shape=oval, labelloc=t];
 		Gary_Dreo [label="Gary Dreo\n2", labelloc=t];
 		Paul_Lahr [label="Paul Lahr\n2", labelloc=t];
 		David_McKay [label="David McKay\n2", labelloc=t];
@@ -646,7 +646,7 @@ splines=curve;
 		Dave_Albrecht [label="Dave Albrecht\n42", labelloc=t];
 		Rick_Higgs [label="Rick Higgs\n42", labelloc=t];
 		John_Casey [label="John Casey\n42", labelloc=t];
-		Christopher_Hurley [label="Christopher Hurley\n42",shape=octagon, labelloc=t];
+		Christopher_Hurley [label="Christopher Hurley\n42",shape=oval, labelloc=t];
 
 /* PC 43 */
 	{rank = same; 43; Dave_McHarg; Gary_DeFrancisco; John_Mischler; Kevin_Richards; }
@@ -656,7 +656,7 @@ splines=curve;
 		James_Robson -> John_Mischler;
 		Rick_Hopp -> Kevin_Richards;
 	/* Labels */
-		Dave_McHarg [label="Dave McHarg\n43",shape=octagon, labelloc=t];
+		Dave_McHarg [label="Dave McHarg\n43",shape=oval, labelloc=t];
 		Gary_DeFrancisco [label="Gary DeFrancisco\n43", labelloc=t];
 		John_Mischler [label="John Mischler\n43", labelloc=t];
 		Kevin_Richards [label="Kevin Richards\n43", labelloc=t];
@@ -705,7 +705,7 @@ splines=curve;
 		Christopher_Hurley -> Michael_Zimmerman;
 	/* Labels */
 		John_Letteney [label="John Letteney\n47", labelloc=t];
-		Michael_Zimmerman [label="Michael Zimmerman\n47",shape=octagon, labelloc=t];
+		Michael_Zimmerman [label="Michael Zimmerman\n47",shape=oval, labelloc=t];
 
 /* PC 48 */
 	{rank = same; 48; Michael_Mulcahy; Gregory_Tutino; }
@@ -966,7 +966,7 @@ splines=curve;
 	/* Labels */
 		Mitchell_Bilker [label="Mitchell Bilker\n64", labelloc=t];
 		Millicient_Goldstein [label="Millicient Goldstein\n64", labelloc=t];
-		Anna_Mrowka [label="Anna Mrowka\n64",shape=octagon, labelloc=t];
+		Anna_Mrowka [label="Anna Mrowka\n64",shape=oval, labelloc=t];
 		Stanley_Murak_III [label="Stanley Murak III\n64", labelloc=t];
 
 /* PC 66 */
@@ -1071,7 +1071,7 @@ splines=curve;
 		David_Gucker -> Soryia_Soto;
 	/* Labels */
 		Barbara_Chautin [label="Barbara Chautin\n72", labelloc=t];
-		Jaime_Grimes [label="Jaime Grimes\n72",shape=octagon, labelloc=t];
+		Jaime_Grimes [label="Jaime Grimes\n72",shape=oval, labelloc=t];
 		Soryia_Soto [label="Soryia Soto\n72", labelloc=t];
 
 /* PC 73 */
@@ -1133,7 +1133,7 @@ splines=curve;
 	/* Bigs */
 		Jaime_Grimes -> Ed_Varel;
 	/* Labels */
-		Ed_Varel [label="Ed Varel\n79.5",shape=octagon, labelloc=t];
+		Ed_Varel [label="Ed Varel\n79.5",shape=oval, labelloc=t];
 
 /* PC "79.75" */
 	{rank = same; "79.75"; Shalom_Skopitz; Valerie_Thompson; }
@@ -1155,7 +1155,7 @@ splines=curve;
 	/* Labels */
 		Lori_Scanlon [label="Lorianne 'Lori' Scanlon\n80", labelloc=t];
 		Kevin_LeVick [label="Kevin LeVick\n80", labelloc=t];
-		Mark_Insalaco [label="Mark Insalaco\n80",shape=octagon, labelloc=t];
+		Mark_Insalaco [label="Mark Insalaco\n80",shape=oval, labelloc=t];
 		Anthony_LaPointe [label="Anthony LaPointe\n80", labelloc=t];
 		Brian_Gilliam [label="Brian Gilliam\n80", labelloc=t];
 
@@ -1235,7 +1235,7 @@ splines=curve;
 		Cynthia_Vercruysse [label="Cynthia Vercruysse\n86", labelloc=t];
 		Jennifer_Rutt [label="Jennifer Rutt\n86", labelloc=t];
 		Robert_Rutt [label="Robert Rutt\n86", labelloc=t];
-		Joseph_Pierson [label="Joseph Pierson\n86",shape=octagon, labelloc=t];
+		Joseph_Pierson [label="Joseph Pierson\n86",shape=oval, labelloc=t];
 		Adam_Green [label="Adam Green\n86", labelloc=t];
 
 /* PC 87 */
@@ -1312,7 +1312,7 @@ splines=curve;
 
 	/* Labels */
 		Ashish_Jaiswal [label="Ashish Jaiswal\n91", labelloc=t];
-		David_Scheiderich [label="David Scheiderich\n91",shape=octagon, labelloc=t];
+		David_Scheiderich [label="David Scheiderich\n91",shape=oval, labelloc=t];
 
 /* PC 92 */
 	/* Does not exist? */
@@ -1400,7 +1400,7 @@ splines=curve;
 
 	/* Labels */
 		Darnelle_Haye [label="Darnelle Haye\n99", labelloc=t];
-		Sharon_Lasser [label="Sharon Lasser\n99",shape=octagon, labelloc=t];
+		Sharon_Lasser [label="Sharon Lasser\n99",shape=oval, labelloc=t];
 
 /* PC 100 */
 	{rank = same; 100; Michael_Barakat; Sherwyn_Hunte; Stephen_Kent; Patrick_Lindsey; }
@@ -1449,9 +1449,9 @@ splines=curve;
 		Matthew_Mosesohn -> Syung_Lee;
 
 	/* Labels */
-		Christopher_Forbes [label="Christopher Forbes\n103",shape=octagon,color=blue, labelloc=t];
+		Christopher_Forbes [label="Christopher Forbes\n103",shape=oval,color=blue, labelloc=t];
 		Christopher_Rowoth [label="Christopher Rowoth\n103", labelloc=t];
-		Ryan_Snyder [label="Ryan Snyder\n103",shape=octagon,color=blue, labelloc=t];
+		Ryan_Snyder [label="Ryan Snyder\n103",shape=oval,color=blue, labelloc=t];
 		Syung_Lee [label="Syung Lee\n103", labelloc=t];
 
 /* PC 104 */
@@ -1550,7 +1550,7 @@ splines=curve;
 		Christopher_Forbes -> Colin_Wenck;
 
 	/* Labels */
-		Colin_Wenck [label="Colin Wenck\n111",shape=octagon, labelloc=t];
+		Colin_Wenck [label="Colin Wenck\n111",shape=oval, labelloc=t];
 
 /* PC 112 */
 	{rank = same; 112; Clark_Cianfarini; Joel_Kincaid; Kari_Hazzard; }
@@ -1563,7 +1563,7 @@ splines=curve;
 
 	/* Labels */
 		Clark_Cianfarini [label="Clark Cianfarini\n112", labelloc=t];
-		Joel_Kincaid [label="Joel Kincaid\n112",shape=octagon, labelloc=t];
+		Joel_Kincaid [label="Joel Kincaid\n112",shape=oval, labelloc=t];
 		Kari_Hazzard [label="Kari Hazzard\n112", labelloc=t];
 
 /* PC 113 */
@@ -1581,7 +1581,7 @@ splines=curve;
 		Michelle_Clemens [label="Michelle Clemens\n113",color=gold, image="michelle_clemens.jpg", labelloc=t];
 		Richard_Latham [label="Richard Latham\n113", image="richard_latham.jpg", labelloc=t];
 		Allyson_Miller [label="Allyson Miller\n113", image="allyson_miller.jpg", labelloc=t];
-		Timothy_Schmoke [label="Timothy Schmoke\n113",shape=octagon, image="timothy_schmoke.jpg", labelloc=t];
+		Timothy_Schmoke [label="Timothy Schmoke\n113",shape=oval, image="timothy_schmoke.jpg", labelloc=t];
 
 /* PC 114 */
 	{rank = same; 114; Catherine_Fagner; Chelsea_Leeder; Joseph_Voellinger; }
@@ -1683,7 +1683,7 @@ splines=curve;
 		Connor_Smith [label="Connor Smith\n118",color=gold, image="connor_smith.jpg", labelloc=t];
 		David_Weinberger [label="David Weinberger\n118", image="david_weinberger.jpg", labelloc=t];
 		Elizabeth_Gienger [label="Elizabeth Gienger\n118", image="elizabeth_gienger.jpg", labelloc=t];
-		Erin_Sullivan [label="Erin Sullivan\n118",shape=octagon,color=gold, image="erin_sullivan.jpg", labelloc=t];
+		Erin_Sullivan [label="Erin Sullivan\n118",shape=oval,color=gold, image="erin_sullivan.jpg", labelloc=t];
 		HsiuChia_Cheng [label="Hsiu-Chia Cheng\n118", image="hsiuchia_cheng.jpg", labelloc=t];
 		Jason_Pomana [label="Jason Pomana\n118", image="jason_pomana.jpg", labelloc=t];
 		Joshua_Schussler [label="Joshua Schussler\n118",color=gold, image="joshua_schussler.jpg", labelloc=t];

@@ -455,8 +455,7 @@
 	Randy_Horwitz -> Karyn_Palmer;
 	Valerie_Thompson -> Adam_Roberts;
 	Michael_Martin -> Michael_Osber;
-	Lori_Scanlon -> Todd_Burtchell;
-	Michael_Martin -> Somphachan_Phetphanh;
+	
 	
 	
 	
@@ -841,8 +840,6 @@
 	Karyn_Palmer [label="Karyn Palmer\n82", labelloc=t];
 	Adam_Roberts [label="Adam Roberts\n82", labelloc=t];
 	Michael_Osber [label="Michael Osber\n83", labelloc=t];
-	Todd_Burtchell [label="Todd Burtchell\n84", labelloc=t];
-	Somphachan_Phetphanh [label="Somphachan Phetphanh\n84", labelloc=t];
 
 	/* Problem Children */
 	Phil_Senise [label="Phil Senise\nTransfer?", labelloc=t];
@@ -858,13 +855,42 @@
 	Gary_Cox [label="Gary Cox\nTransfer from SUNY 'somewhere'", labelloc=t];
 	Robert_OConner [label="Robert O'Conner\nTransfer from Gamma Lambda", labelloc=t];
 	//Slowly moving to a pledge-class based text layout. Make sure when adding to add entire pledge classes. Pledges who do not make Brotherhood should not appear on the family tree, but should be recorded in the book of life.
+	
+	
+	/* PC 80 */
+		{rank = same; 80; Lori_Scanlon; Kevin_LeVick; Mark_Insalaco; Anthony_LaPointe; Brian_Gilliam; }
+		/* Bigs */
+		/* Labels */
 
-	{rank = same; 80; Lori_Scanlon; Kevin_LeVick; Mark_Insalaco; Anthony_LaPointe; Brian_Gilliam; }
-	{rank = same; "80.5"; Brian_McFadden; }
-	{rank = same; 81; Willis_Almekinder; Matt_Sparling; }
-	{rank = same; 82; Susan_Koerner; Alexander_Lewis; Michael_Martin; Karyn_Palmer; Adam_Roberts; }
-	{rank = same; 83; Michael_Osber; }
-	{rank = same; 84; Todd_Burtchell; Somphachan_Phetphanh; }
+	/* PC "80.5" */
+		{rank = same; "80.5"; Brian_McFadden; }
+		/* Bigs */
+		/* Labels */
+
+	/* PC 81 */
+		{rank = same; 81; Willis_Almekinder; Matt_Sparling; }
+		/* Bigs */
+		/* Labels */
+
+	/* PC 82 */
+		{rank = same; 82; Susan_Koerner; Alexander_Lewis; Michael_Martin; Karyn_Palmer; Adam_Roberts; }
+		/* Bigs */
+		/* Labels */
+
+	/* PC 83 */
+		{rank = same; 83; Michael_Osber; }
+		/* Bigs */
+		/* Labels */
+	/* PC 84 */
+		{rank = same; 84; Todd_Burtchell; Somphachan_Phetphanh; }
+		
+		/* Bigs */
+			Lori_Scanlon -> Todd_Burtchell;
+			Michael_Martin -> Somphachan_Phetphanh;	
+		
+		/* Labels */
+			Todd_Burtchell [label="Todd Burtchell\n84", labelloc=t];
+			Somphachan_Phetphanh [label="Somphachan Phetphanh\n84", labelloc=t];
 	
 	
 

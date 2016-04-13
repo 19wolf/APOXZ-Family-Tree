@@ -1556,5 +1556,21 @@
 			Michael_Surtel [label="Michael Surtel\n126", image="michael_surtel.jpg", labelloc=t];
 			Noah_Parker [label="Noah Parker\n126", image="noah_parker.jpg", labelloc=t];
 			Roni_Crumb [label="Roni Crumb\n126", image="roni_crumb.jpg", labelloc=t];
+
+	/* PC 127 */
+		{rank = same; 127; Jonathan_Burgess; Orresta_Paddock; Jason_Zheng; Dallas_Sumski; Catherine_Schools;}
+
+		/* Bigs */
+			Ian_Hogue -> Jonathan_Burgess;
+			Maeve_McMahon -> Orresta_Paddock;
+			Alexis_Montoya -> Jason_Zheng;
+			Andrew_Dillon -> Dallas_Sumski;
+			Brian_Coren -> Catherine_Schools;
+		/* Labels */
+			Jonathan_Burgess [label="Jonathan Burgess\n127", image="jonathan_burgess.jpg", labelloc=t];
+			Orresta_Paddock [label="Orresta Paddock\n127", image="orresta_paddock.jpg", labelloc=t];
+			Jason_Zheng [label="Jason Zheng\n127", image="jason_zheng.jpg", labelloc=t];
+			Dallas_Sumski [label="Dallas Sumski\n127", image="dallas_name.jpg", labelloc=t];
+			Catherine_Schools [label="Catherine 'Coogan' Schools\n127", image="catherine_schools.jpg", labelloc=t];
 	/*DO NOT EDIT BELOW THIS LINE */
 	}

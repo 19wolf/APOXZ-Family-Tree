@@ -1880,11 +1880,33 @@ splines=curve;
 			Alexis_Montoya -> Jason_Zheng;
 			Andrew_Dillon -> Dallas_Sumski;
 			Brian_Coren -> Chelsea_Schools;
+			
 		/* Labels */
 			Jonathan_Burgess [label="Jonathan Burgess\n127", image="jonathan_burgess.jpg", labelloc=t];
 			Orresta_Paddock [label="Orresta Paddock\n127", image="orresta_paddock.jpg", labelloc=t];
 			Jason_Zheng [label="Jason Zheng\n127", image="jason_zheng.jpg", labelloc=t];
 			Dallas_Sumski [label="Dallas Sumski\n127", image="dallas_name.jpg", labelloc=t];
 			Chelsea_Schools [label="Chelsea 'Coogan' Schools\n127", image="chelsea_schools.jpg", labelloc=t];
+
+/* PC 128 */
+		{rank = same; 128; Austin_Enriquez; Colin_Mellett; John_DeBrino; Nathan_Sugarman; Sam_Finston; Stephen_Rinaldo;}
+		
+		/* Bigs */
+			Sabrina_Krutz -> Austin_Enriquez;
+			Jim_DeCourcey -> Colin_Mellett;
+			Rachel_Taylor -> John_DeBrino;
+			Brian_Coren -> Nathan_Sugarman;
+			Noah_Parker -> Sam_Finston;
+			Ian_Hogue -> Stephen_Rinaldo;
+		
+		/* Labels */
+			Austin_Enriquez [label="Austin Enriquez\n128", image="austin_enriquez.jpg", labelloc=t];
+			Colin_Mellett [label="Colin Mellett\n128", image="colin_mellet.jpg", labelloc=t]; 
+			John_DeBrino [label="John DeBrino\n128", image="john_debrino.jpg", labelloc=t];
+			Nathan_Sugarman [label="Nathan Sugarman\n128", image="nathan_sugarman.jpg", labelloc=t];
+			Sam_Finston [label="Sam Finston\n128", image="sam_finston.jpg", labelloc=t];
+			Stephen_Rinaldo [label="Stephen Rinaldo\n128", image="stephen_rinaldo.jpg", labelloc=t];
+			
+			
 /*DO NOT EDIT BELOW THIS LINE */
 }

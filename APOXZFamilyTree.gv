@@ -1887,25 +1887,5 @@ splines=curve;
 			Dallas_Sumski [label="Dallas Sumski\n127", image="dallas_name.jpg", labelloc=t];
 			Chelsea_Schools [label="Chelsea 'Coogan' Schools\n127", image="chelsea_schools.jpg", labelloc=t];
 
-/* PC 128 */
-		{rank = same; 128; John_DeBrino; Austin_Enriquez; Stephen_Rinaldo; Rebecca_Murray; Lynelle_Bozett; Nathan_Sugarman; Sam_Finston;}
-		
-		/* Bigs */
-			Rachel_Taylor -> John_DeBrino;
-			Sabrina_Krutz -> Austin_Enriquez;
-			Ian_Hogue -> Stephen_Rinaldo;
-			Anna_Karwacki -> Rebecca_Murray;
-			Alia_Gestl -> Lynelle_Bozett;
-			Brian_Coren -> Nathan_Sugarman;
-			Noah_Parker -> Sam_Finston;
-			
-		/* Labels */
-			John_DeBrino [label="John DeBrino\n128", image="john_debrino.jpg", labelloc=t];
-			Austin_Enriquez [label="Austin Enriquez\n128", image="austin_enriquez.jpg", labelloc=t];
-			Stephen_Rinaldo [label="Stephen Rinaldo\n128", image="stephen_rinaldo.jpg", labelloc=t];
-			Rebecca_Murray [label="Rebecca Murray\n128", image="rebecca_murray.jpg", labelloc=t];
-			Lynelle_Bozett [label="Lynelle Bozett\n128", image="lynelle_bozett.jpg", labelloc=t];
-			Nathan_Sugarman [label="Nathan Sugarman\n128", image="nathan_sugarman.jpg", labelloc=t];
-			Sam_Finston [label="Sam Finston\n128", image="sam_finston.jpg", labelloc=t];
 /*DO NOT EDIT BELOW THIS LINE */
 }

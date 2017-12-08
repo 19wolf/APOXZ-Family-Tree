@@ -1922,6 +1922,28 @@ splines=curve;
 		Misha_Chekhov [label="Misha Chekhov\n129", image="misha_chekhov.jpg", labelloc=t];
 		Yaxin_Zhang [label="Yaxin Zhang\n129", image="Yaxin Zhang.jpg", labelloc=t];
 		Jimmy_Agresta [label="Jimmy Agresta\n129", image="jimmy_agresta.jpg", labelloc=t];
-		
+
+/* PC 130 */
+	
+	{rank = same; 130; Lauren_Wolfford; Li_Yang_Tang; Kenneth_Nellum; Lauren_Gregg; Grace_Ray; Dakota_McDonough; Kelly_Thompson;}
+	
+	/* Bigs */
+		Stephen_Rinaldo -> Lauren_Wolfford; 
+		Kimberly_Hedger -> Kenneth_Nellum;
+		Rachel_Taylor -> Li_Yang_Tang;  
+		Alia_Gestl -> Lauren_Gregg;
+		Jimmy_Agresta -> Grace_Ray;
+		Noah_Parker -> Dakota_McDonough;
+		Ian_Hogue -> Kelly_Thompson;
+
+	/* Labels */
+		Lauren_Wolfford [label="Lauren Wolfford\n130", image="lauren_Wolfford.jpg", labelloc=t];
+		Kenneth_Nellum [label="Kenneth Nullem\n130", image="kenneth_nellum.jpg", labelloc=t];
+		Li_Yang_Tang [label="Li Yang Tang\n130", image="li_yang_tang.jpg", labelloc=t];
+		Lauren_Gregg [label="Lauren Gregg\n130", image="lauren_gregg.jpg", labelloc=t];
+		Grace_Ray [label="Grace Ray\n130", image="grace_ray.jpg", labelloc=t];
+		Dakota_McDonough [label="Dakota McDonough\n130", image="dokota_mcdonough.jpg", labelloc=t];
+		Kelly_Thompson [label="Kelly Thompson\n130", image="kelly_thompson.jpg", labelloc=t];
+				
 /*DO NOT EDIT BELOW THIS LINE */
 }
